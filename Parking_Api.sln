@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking_Api", "Parking_Api\Parking_Api.csproj", "{00085810-10E1-4958-933C-159511F68377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingApi.Core", "ParkingApi.Core\ParkingApi.Core.csproj", "{629600F6-C2E1-40B6-999B-1D3028A39E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingApi.Domain", "ParkingApi.Domain\ParkingApi.Domain.csproj", "{0844BFDB-57AA-473E-BC75-CF9BAA7772A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingApi.Repository", "ParkingApi.Repository\ParkingApi.Repository.csproj", "{32959D51-03D7-4694-9957-8A5A6E833A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00085810-10E1-4958-933C-159511F68377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00085810-10E1-4958-933C-159511F68377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00085810-10E1-4958-933C-159511F68377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00085810-10E1-4958-933C-159511F68377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629600F6-C2E1-40B6-999B-1D3028A39E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629600F6-C2E1-40B6-999B-1D3028A39E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629600F6-C2E1-40B6-999B-1D3028A39E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629600F6-C2E1-40B6-999B-1D3028A39E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0844BFDB-57AA-473E-BC75-CF9BAA7772A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0844BFDB-57AA-473E-BC75-CF9BAA7772A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0844BFDB-57AA-473E-BC75-CF9BAA7772A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0844BFDB-57AA-473E-BC75-CF9BAA7772A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32959D51-03D7-4694-9957-8A5A6E833A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32959D51-03D7-4694-9957-8A5A6E833A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32959D51-03D7-4694-9957-8A5A6E833A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32959D51-03D7-4694-9957-8A5A6E833A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {136A70C0-64A0-40AC-8268-71248CD99AD4}
+	EndGlobalSection
+EndGlobal
