@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ParkingApi.Domain
 {
-    class CarRequest
+    public class CarRequest
     {
+        public string Model { get; set; }
+        public int YearFabrication { get; set; }
+        public string Brand { get; set; }
+        public string Color { get; set; }
+        public bool Brazilian { get; set; }
     }
 }

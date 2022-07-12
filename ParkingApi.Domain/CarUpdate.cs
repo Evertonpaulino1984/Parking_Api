@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParkingApi.Domain
 {
-    class CarUpdate
+    public class CarUpdate
     {
         public string Key { get; set; }
         public DateTime Update { get; set; }

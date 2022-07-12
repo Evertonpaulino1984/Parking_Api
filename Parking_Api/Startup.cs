@@ -5,6 +5,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ParkingApi.Core;
+using ParkingApi.Repository;
+using ParkingApi.Repository.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;

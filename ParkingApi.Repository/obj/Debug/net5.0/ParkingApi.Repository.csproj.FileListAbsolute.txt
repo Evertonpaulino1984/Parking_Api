@@ -1,0 +1,15 @@
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Repository.deps.json
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Repository.dll
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\bin\Debug\net5.0\ref\ParkingApi.Repository.dll
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Repository.pdb
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Domain.dll
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\bin\Debug\net5.0\ParkingApi.Domain.pdb
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.AssemblyInfo.cs
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.csproj.CopyComplete
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.dll
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ref\ParkingApi.Repository.dll
+C:\Users\Dell\Source\Repos\Parking_Api\ParkingApi.Repository\obj\Debug\net5.0\ParkingApi.Repository.pdb
